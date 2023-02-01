@@ -39,3 +39,14 @@ public class CharacterOccurencesInString {
 	}
 
 }
+
+//class A {
+//	void print(int a , int b) {
+//		System.out.println(a+b);
+//	}
+//	
+//	int print (int a, int b) {
+//		System.out.println(a+B);
+//		return a+b;
+//	}
+//}
